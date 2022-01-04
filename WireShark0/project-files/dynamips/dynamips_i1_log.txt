@@ -1,0 +1,10 @@
+Jan 26 19:55:19.583 HYPERVISOR: Release 0.2.17-amd64/Darwin (tag 2017072410)
+Jan 26 19:55:19.583 HYPERVISOR: Started on IP = localhost, TCP port = 51105.
+Jan 26 19:55:19.591 HYPERVISOR: exec_cmd: hypervisor version 
+Jan 26 19:55:19.591 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/songge/GNS3/projects/quiz1/project-files/dynamips 
+Jan 26 19:55:19.591 GENERAL: working_dir=/Users/songge/GNS3/projects/quiz1/project-files/dynamips
+Jan 26 19:55:19.592 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Jan 26 19:55:25.058 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Jan 26 19:55:25.059 HYPERVISOR: exec_cmd: hypervisor stop 
+Jan 26 19:55:25.105 HYPERVISOR: Stopped.
+Jan 26 19:55:25.107 GENERAL: reset done.
